@@ -1,0 +1,25 @@
+{
+  "name": "typescript_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build" : "parcel build ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodioKim/TypeScript_Study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leodioKim/TypeScript_Study/issues"
+  },
+  "homepage": "https://github.com/leodioKim/TypeScript_Study#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "typescript": "^5.2.2"
+  }
+}
